@@ -1,9 +1,5 @@
 # MiniUber
-It seems like you need a README file for your Uber-like transportation service Java program. Here's a sample README that you can use:
 
----
-
-# Uber-like Transportation Service - Java Program
 
 ## Overview
 
